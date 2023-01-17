@@ -1,0 +1,13 @@
+Admin: Full Admin powers. Can add, update, and delete user and
+item records
+
+Manager: Full manager powers. Can Login, view employee records,
+item records, table records, and can perform table management
+
+Waiter: Can display menu and submit orders for chef
+
+Chef: Can display cart and show the estimated bill
+
+Customer: Full customer powers. Can login, order food,and pay bill.
+
+Project status: Completed
